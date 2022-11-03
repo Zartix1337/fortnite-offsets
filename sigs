@@ -1,0 +1,8 @@
+GWorld : 48 8B 05 ? ? ? ? 48 3B C3 49 0F 44 C7
+StaticFindObject : E8 3D AC CD FA 33 DB 49 89 04
+GetNameByIndex: E8 ? ? ? ? 8B 7D F8 48 8B 5D F0 48 8D 45 F0 
+
+freeFN : 0xDCE9DC0
+48 85 C9 0F 84 ? ? ? ? 53 48 83 EC ? 48 89 7C 24 30
+
+
