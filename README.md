@@ -1,4 +1,4 @@
 # fortnite-offsets
-Fortnite offsets every update. Need help? ==>Zartix#6218
+Fortnite offsets&sigs every update. Need help? ==>Zartix#6218
 
 
