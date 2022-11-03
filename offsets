@@ -1,0 +1,19 @@
+GWORLD : 0xDF5D928
+GetNameByIndex : 0xDF86AC0
+----
+GameInstance : 0x1a8
+Pawn : 0x328
+RootComponent : 0x190
+RelativeLocation : 0x128
+Levels : 0x160
+WeaponData : 0x318
+CurrentWeapon : 0x868
+Mesh : 0x310
+GameViewport->0x858
+World->0x78
+CustomTimeDilation->0x64
+GameInstance->0x80
+PersistentLevel->0x30
+LocalPlayers->0x38
+AcknowledgedPawn->0x328
+PlayerState->0x2A8
